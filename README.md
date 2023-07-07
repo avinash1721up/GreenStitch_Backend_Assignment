@@ -16,7 +16,7 @@ This project is a backend implementation of a login and signup REST API with sec
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/Shimbhu77/GreenStich_Backend_Assignment.git
+git clone https://github.com/avinash1721up/GreenStitch_Backend_Assignment.git
 ```
 
 ### 2. Go the Project
