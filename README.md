@@ -22,7 +22,7 @@ git clone https://github.com/avinash1721up/GreenStitch_Backend_Assignment.git
 ### 2. Go the Project
 
 ```
-cd GreenStich_Backend_Assignment/GreenStitch_Backend_Assignment
+cd Assignment/GreenStitch_Backend_Assignment
 
 ```
 
